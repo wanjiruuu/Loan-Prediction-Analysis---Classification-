@@ -60,7 +60,7 @@ This is a standard supervised classification task.
 - **RandomForest** models outperformed other algorithms for  **Credit status Classification**: Achieved 90% accuracy and 89% precision.
 - **Hyperparameter tuning** did not significantly improve performance, suggesting RandomForest performs well with default settings.
 
-### 5. Feature Importance
+### 4. Feature Importance
 - Key features for loan outcomes include:
   - **Borrower income**
   - **Recommendation**: Financial institutions can refine their credit policies using these insights to better understand borrower behavior and risk.
