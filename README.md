@@ -1,7 +1,9 @@
-# Loan-Prediction-Analysis;Classification
-Machine Learning; Loan Prediction 
+# Bank Credit Status Classification/Prediction
+
 ### Dataset information
 It is a dataset describing bank credit status of clients.
+
+### Project Summary 
 
 This project addresses critical challenges in financial lending by analyzing a loan dataset to predict/classify loan status. The dataset contains 100,000 observations across 19 variables, including borrower demographics and loan characteristics.
 
